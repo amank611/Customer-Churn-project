@@ -1,4 +1,4 @@
-#📉 Customer Churn Analysis
+# 📉 Customer Churn Analysis
 ## 📝 Overview
 This project analyzes customer churn behavior for a telecom company. Using Python, the dataset is explored, cleaned, and visualized to understand the factors contributing to customer attrition. The insights can help businesses reduce churn and improve customer retention strategies.
 
